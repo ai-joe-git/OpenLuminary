@@ -10,7 +10,7 @@
 
 ## Step 1: Clone the repository
 ```
-git clone https://github.com/yourusername/OpenLuminary.git
+git clone https://github.com/ai-joe-git/OpenLuminary.git
 cd OpenLuminary
 ```
 
