@@ -1920,8 +1920,8 @@ def create_gradio_interface(model: Model) -> gr.Blocks:
             
             ## Project Links
             
-            - [GitHub Repository](https://github.com/yourusername/OpenLuminary)
-            - [Documentation](https://github.com/yourusername/OpenLuminary/docs)
+            - [GitHub Repository](https://github.com/ai-joe-git/OpenLuminary)
+            - [Documentation](https://github.com/ai-joe-git/OpenLuminary/docs)
             """)
     
     return interface
@@ -2407,7 +2407,7 @@ pip install openluminary
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/OpenLuminary.git
+git clone https://github.com/ai-joe-git/OpenLuminary.git
 cd OpenLuminary
 
 # Create a virtual environment
@@ -2570,7 +2570,7 @@ If you use OpenLuminary in your research or applications, please cite:
 @software{openluminary2025,
   author = {OpenLuminary Contributors},
   title = {OpenLuminary: Open-source AI-powered financial analysis platform},
-  url = {https://github.com/yourusername/OpenLuminary},
+  url = {https://github.com/ai-joe-git/OpenLuminary},
   year = {2025},
 }
 ```
